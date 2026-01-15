@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router';
 import { usePuterStore } from '~/lib/puter'
 export const meta = () =>  ([
-    {title: 'Resumind | Auth'},
+    {title: 'CV Analyzer | Auth'},
     {name: 'description', content: 'Log into your account'},
 ])
 
